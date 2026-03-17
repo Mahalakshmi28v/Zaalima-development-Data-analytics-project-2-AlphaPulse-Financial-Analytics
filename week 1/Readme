@@ -1,0 +1,41 @@
+# Week 1: Data Acquisition & Cleaning
+
+## 📌 Objective
+The goal of Week 1 is to collect, clean, and prepare financial market data for portfolio risk analysis.
+
+---
+
+## 📊 Data Collection
+- Retrieved historical stock data using the `yfinance` Python library
+- Selected a diversified portfolio of 10 stocks across multiple sectors
+- Included benchmark index: S&P 500 (^GSPC)
+
+---
+
+## 🧹 Data Cleaning
+- Extracted relevant price data (Close prices)
+- Handled missing values using forward fill method
+- Removed remaining null values to ensure data consistency
+
+---
+
+## 📁 Files Included
+- `raw_stock_data.csv` → Original dataset
+- `cleaned_stock_data.csv` → Processed dataset used for analysis
+- `data_fetching.ipynb` → Python notebook for data extraction and cleaning
+
+---
+
+## 🛠 Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- yfinance
+
+---
+
+## ✅ Outcome
+- Prepared a clean and structured dataset ready for financial analysis
+- Established a strong data pipeline for further risk modeling
+
+---
