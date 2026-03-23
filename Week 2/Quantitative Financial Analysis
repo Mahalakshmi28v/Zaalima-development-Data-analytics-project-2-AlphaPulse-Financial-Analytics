@@ -1,0 +1,40 @@
+# Week 2: Quantitative Financial Analysis
+
+## Objective
+
+To analyze portfolio performance and risk using statistical and simulation-based techniques.
+
+## Key Steps Performed
+
+### 1. Log Returns Calculation
+
+Converted stock prices into daily log returns for accurate financial analysis.
+
+### 2. Portfolio Construction
+
+Assigned equal weights to all assets and calculated expected daily and annual returns.
+
+### 3. Risk Measurement
+
+* Built covariance matrix
+* Calculated portfolio variance and volatility (risk)
+
+### 4. Monte Carlo Simulation
+
+* Simulated 10,000 possible future portfolio paths
+* Modeled 1-year performance uncertainty
+
+### 5. Value at Risk (VaR)
+
+Calculated 95% confidence VaR to estimate potential portfolio loss.
+
+## Tools Used
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+
+## Outcome
+
+Developed a complete risk analysis model capable of forecasting portfolio performance and quantifying financial risk.
