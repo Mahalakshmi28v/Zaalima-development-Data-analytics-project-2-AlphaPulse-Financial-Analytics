@@ -1,0 +1,36 @@
+# Week 1: Data Acquisition & Cleaning
+
+## Objective
+
+To collect and prepare financial market data for portfolio analysis.
+
+## Data Collection
+
+* Used `yfinance` API to download historical stock data
+* Selected 10 diversified stocks across sectors + S&P 500 index
+
+## Data Processing
+
+* Extracted closing prices from raw dataset
+* Handled missing values using forward fill method
+* Removed remaining null values to ensure clean dataset
+
+## Data Structure
+
+* MultiIndex dataset (Price Type, Ticker)
+* Converted into clean format for analysis
+
+## Tools Used
+
+* Python
+* Pandas
+* yfinance
+
+## Output
+
+* Raw dataset (`raw_stock_data.csv`)
+* Cleaned dataset (`cleaned_stock_data.csv`)
+
+## Outcome
+
+Prepared a reliable financial dataset ready for quantitative analysis and modeling.
