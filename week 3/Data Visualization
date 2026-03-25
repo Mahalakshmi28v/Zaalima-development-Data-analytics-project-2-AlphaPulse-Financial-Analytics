@@ -1,0 +1,33 @@
+# Week 3: Data Visualization (Tableau)
+
+## Objective
+
+To create an interactive financial dashboard for analyzing portfolio performance, risk, and stock relationships.
+
+## Visualizations Created
+
+### 1. Correlation Heatmap
+
+Displays relationships between stocks to identify diversification opportunities.
+
+### 2. Rolling Volatility Chart
+
+Shows 30-day moving volatility to track market risk over time.
+
+### 3. Stock Price Trend
+
+Compares price movements of selected stocks across time.
+
+### 4. Returns Distribution (Histogram)
+
+Visualizes the distribution of stock returns to analyze risk and variability.
+
+## Tools Used
+
+* Tableau Public
+* Python (data preparation)
+
+## Outcome
+
+Developed an interactive dashboard that provides insights into stock performance, correlations, and risk behavior, enabling better investment decisions.
+
