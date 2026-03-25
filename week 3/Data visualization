@@ -1,0 +1,9 @@
+week3/
+│
+├── week3_data_preparation.ipynb
+├── correlation_matrix.csv
+├── rolling_volatility.csv
+├── cleaned_stock_data.csv
+├── log_returns.csv
+├── tableau dashboard.twbx
+├── README.md
