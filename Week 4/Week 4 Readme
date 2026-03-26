@@ -1,0 +1,54 @@
+# Week 4 – Finalization (AlphaPulse Financial Analytics)
+
+## 🎯 Objective
+
+Finalize the project by automating data refresh, validating financial metrics, and building an executive-level dashboard.
+
+---
+
+## 🔄 Data Automation
+
+* Developed a Python script to fetch and refresh latest stock market data using yFinance
+* Ensured updated data is stored for continuous analysis
+
+---
+
+## 📊 Financial Metrics Calculation
+
+Calculated key portfolio risk metrics using Python:
+
+* Annual Return
+* Volatility
+* Value at Risk (VaR 95%)
+* Maximum Drawdown
+
+All metrics were validated programmatically to ensure accuracy.
+
+---
+
+## 📈 Executive Dashboard (Tableau)
+
+* Built a clean and minimal dashboard for decision-makers
+* Displays only key KPIs:
+
+  * Return
+  * Volatility
+  * VaR (95%)
+  * Max Drawdown
+* Connected Tableau to final metrics dataset for accurate reporting
+
+---
+
+## ✅ Final Output
+
+* Automated data pipeline
+* Verified financial calculations
+* Executive-level dashboard ready for business use
+
+---
+
+## 🛠 Tools Used
+
+* Python (Pandas, NumPy, yFinance)
+* Tableau Public
+* GitHub
